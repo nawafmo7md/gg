@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dev": "nodemon main.js | pino-colada"
+    "dev": "nodemon main.js | pino-colada",
+    "start": "node main.js"
   },
   "dependencies": {
     "fastify": "^4.6.0"
