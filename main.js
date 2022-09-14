@@ -6,7 +6,7 @@ const sports = ["fooball", "teenes", "basktball"];
 // Declare a route
 
 fastify.get('/', async (request, reply) => {
-  return { HEY: "THERE!" }
+  return { HEY: " MOMMY, LOVE YOU" }
 })
 
 fastify.post('/cars', async (request, reply) => {
